@@ -1,5 +1,13 @@
 # dns_detector.py
 
+Este script en Python detecta dominios potencialmente sospechosos. 
+
+Funciona recorriendo una lista de dominios y buscando si contienen palabras clave asociadas a intentos de phishing (como "login", "secure" o "verify"). 
+
+Si encuentra alguna coincidencia, muestra una alerta indicando que el dominio podría ser malicioso.
+
+#Ejemplo:
+
 dominios = [
     "google.com",
     "gooogle-login.com",
