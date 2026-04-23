@@ -1,12 +1,12 @@
-Python aplicado a Ciberseguridad
+# Python aplicado a Ciberseguridad
 
 En esta carpeta guardo scripts desarrollados en Python enfocados a ciberseguridad.
 
-Objetivo
+# Objetivo
 
 Aplicar Python a tareas reales de seguridad como análisis, automatización y detección.
 
-Contenido
+# Contenido
 
 Análisis de logs
 Scripts de detección (ej: intentos fallidos, patrones sospechosos)
