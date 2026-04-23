@@ -3,21 +3,20 @@
 En esta carpeta guardo scripts desarrollados en Python enfocados a ciberseguridad.
 
 # Objetivo
-
 Aplicar Python a tareas reales de seguridad como análisis, automatización y detección.
 
 # Contenido
+- Análisis de logs
+- Scripts de detección (ej: intentos fallidos, patrones sospechosos)
+- Automatización de tareas de red o sistema
+- Herramientas básicas propias
 
-Análisis de logs
-Scripts de detección (ej: intentos fallidos, patrones sospechosos)
-Automatización de tareas de red o sistema
-Herramientas básicas propias
-Ejemplos futuros
+# Ejemplos futuros
+- Analizador de logs SSH
+- Detector de fuerza bruta
+- Mini escáner de red
+- Monitorización básica
 
-Analizador de logs SSH
-Detector de fuerza bruta
-Mini escáner de red
-Monitorización básica
-Notas
-
+# Notas
 Este apartado está enfocado a mejorar como analista de ciberseguridad (SOC / Blue Team).
+
